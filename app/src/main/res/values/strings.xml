@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">FlashLight</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="cameraOff">Camera off</string>
+    <string name="cameraOn">Camera on</string>
 
 </resources>
